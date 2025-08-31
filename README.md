@@ -14,5 +14,3 @@ This is a simple HangMan game implemented in HTML, CSS, and JavaScript.
 - `style.css`: Styles for the game.
 - `data.json`: List of words or phrases for the game.
 
-## Credits
-Created for learning and demonstration purposes.
